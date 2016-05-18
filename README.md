@@ -1,2 +1,2 @@
 # docker-lemp
-A Linux-NGINX-MySQL-PHP stack created with Docker
+This is my attempt at building a stack that is easy to operate using `docker-compose`, and easy to deploy as well. What I'm aiming for is also to allow users to run commands (such as `php`) intuitively.
